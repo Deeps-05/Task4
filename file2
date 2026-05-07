@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is file2 in feature2 of dir2
 
+=======
+This is file2 in feature2 branch of dir2 
+Devops
+>>>>>>> 26bf4c0 (file2 feature2 edited)
